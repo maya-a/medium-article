@@ -1,0 +1,68 @@
+body {
+    color: #494949;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: lighter;
+    font-family: 'Lora', serif;
+    margin: 0;
+    background-color: #FFFFFF;
+}
+
+.banner {
+/*  background: url("https://images6.alphacoders.com/467/thumb-1920-467045.jpg");
+*/  background-size: cover;
+  color: white;
+  padding: 90px 0;
+  font-family: 'Lora', serif;
+  height: 250px;
+  font-size: 30px;
+  text-align: center;
+/*  background :linear-gradient(to right,rgba(20,20,20,0.2),rgba(235,235,235,0.2) );
+*/  background: linear-gradient(rgba(20,20,20,0.2), rgba(235,235,235,0.2), transparent), url("https://images6.alphacoders.com/467/thumb-1920-467045.jpg") no-repeat center;
+
+}
+
+.banner p {
+  opacity: 0.8;
+}
+
+.container {
+    width: 700px;
+    margin: 50px auto;
+    }
+
+
+  /*padding-top: 170px*/
+}
+
+div {
+    display: block;
+    margin: 100px;
+}
+
+.italic {
+  font-style: italic;
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 38px;
+  font-style: none;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 27px;
+  color: #a0a0a0;
+  font-weight: 400;
+
+}
+
+.link-medium {
+    background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
+    color: #636363;
+    font-weight: lighter;
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: none;
